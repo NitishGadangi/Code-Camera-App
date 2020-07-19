@@ -10,7 +10,7 @@ It's quite common that we always end up writing lines of code on paper during ou
 
 Now you don't need to type all your handwritten code onto your pc. CodeCamera will automatically detect the language in which you have written the code and converts them ready for the execution, and you can also directly save the code as a file.
 
-What it does
+## What it does
 1. As soon as you open the app, you can see two options on the home page.
 2. You can either upload a previously captured image of the handwritten code. Or you can start capturing a new image using the Capture Code button.
 3. After providing permission to access Camera, you can start capturing your handwritten code.
@@ -18,6 +18,12 @@ What it does
 5. Fit your camera frame and click capture, the captured image will be processed and using the specifiers it will detect the language of the code written.
 6. Once you click on the decode button, you can see the converted code on the screen.
 7. You can also save the code as a file by specifying a name.
+
+## Screenshots
+
+![](https://github.com/NitishGadangi/Code-Camera-App/blob/master/screenshots/banner2.jpg?raw=true)
+![](https://github.com/NitishGadangi/Code-Camera-App/blob/master/screenshots/list1.jpg?raw=true)
+![](https://github.com/NitishGadangi/Code-Camera-App/blob/master/screenshots/list2.jpg?raw=true)
 
 ## How I built it
 I have build the whole app on Android studio using Native Android SDK. I used Google cloud platform ML kit and it's vision API for image processing.
