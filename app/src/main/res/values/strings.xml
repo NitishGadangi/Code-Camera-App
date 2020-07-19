@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Code Camera</string>
+    <string name="listing_py">print("Goodbye, World!")</string>
+    <string name="test_code">#Captured using CodeCamera by Nitish\n
+#Detected Python\n
+\n
+def demo():\n
+	\tprint(\"Hello Guys\")\n
+	\tprint(\"Howz my Hack\")\n
+	\tprint(\"peace out\")\n
+\n
+demo()\n</string>
+</resources>

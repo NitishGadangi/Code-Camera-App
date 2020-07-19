@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "625227383029",
+    "firebase_url": "https://code-maker-app.firebaseio.com",
+    "project_id": "code-maker-app",
+    "storage_bucket": "code-maker-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625227383029:android:7df8ca5dc1c4afa9df85bc",
+        "android_client_info": {
+          "package_name": "com.nitish.codemakerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625227383029-s3tvgmu5eqado97m5dqu3i5mtpb6vaj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfn52Vc4aZb2v9bOCPDlnDX98H7uk1p2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625227383029-s3tvgmu5eqado97m5dqu3i5mtpb6vaj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
