@@ -1,5 +1,9 @@
 # Code-Camera-App
 Convert Handwritten Code into executable file using your Mobile Camera. Give Life to your Handwritten Code.
+```
+This is just a conceptual prototype
+Complete practical build is still under development
+```
 
 ![](https://github.com/NitishGadangi/Code-Camera-App/blob/master/screenshots/banner.jpg?raw=true)
 
